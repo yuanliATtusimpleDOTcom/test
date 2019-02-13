@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.2.6] - 2019-02-13
+
+### Added
+
+- insert demo log 2
+
 ## [2.2.5] - 2019-02-13
 
 ### Added
