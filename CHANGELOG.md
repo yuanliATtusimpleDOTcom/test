@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.2.10] - 2019-01-10
+### Undefined
+- test undefined 6
+
 ## [2.2.9] - 2019-01-09
 ### Removed 
 - test removed 5
