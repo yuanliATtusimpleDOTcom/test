@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.2.11] - 2019-01-11
+### Undefined
+- test undefined 7
+
 ## [2.2.10] - 2019-01-10
 ### Undefined
 - test undefined 6
