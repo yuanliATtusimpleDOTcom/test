@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.2.9] - 2019-01-09
+### Removed 
+- test removed 5
+
 ## [2.2.8] - 2019-01-08
 ### Changed 
 - test Changed 4
