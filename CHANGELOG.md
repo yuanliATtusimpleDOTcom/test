@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.2.7] - 2019-01-07
+### Fixed
+- test Fixed 3
+
 ## [2.2.6] - 2019-01-06
 ### Added
 - test 2
