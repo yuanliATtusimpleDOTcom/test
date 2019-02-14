@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.2.13] - 2019-01-13
+### Fixed
+- do a revert test
+
 ## [2.2.11] - 2019-01-11
 ### Undefined
 - test undefined 7
